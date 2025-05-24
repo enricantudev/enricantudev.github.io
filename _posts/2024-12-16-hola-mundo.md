@@ -1,8 +1,6 @@
 ---
 title: Hola mundo
 date: '2024-12-16 09:49:49 -0600'
-categories: [Personal]
-tags: [demo]
 layout: post
 ---
 
