@@ -1,6 +1,8 @@
 ---
 title: Hola mundo
 date: '2024-12-16 09:49:49 -0600'
+categories: [Blog]
+tags: [blog]
 layout: post
 ---
 
